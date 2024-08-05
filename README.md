@@ -1,9 +1,11 @@
 # Analysis of Narcissistic Personality Disorder in Reddit Posts
+![Screenshot 2024-08-05 at 5 45 08 PM](https://github.com/user-attachments/assets/7830cd8d-8ab3-4191-b11f-2a61ac0eaad0)
+Created using Tableau Desktop. 
+
+
 ## Project Overview
 This project analyzes a dataset of Reddit posts related to narcissistic personality disorder (NPD), focusing on identifying common themes and experiences shared by victims of narcissistic abuse. The analysis includes data preprocessing, identification of key terms and roles associated with narcissists, frequency analysis of victim experiences, and thematic analysis using Non-negative Matrix Factorization (NMF) to uncover prevalent topics within the posts.
 
-![Screenshot 2024-08-05 at 5 45 08 PM](https://github.com/user-attachments/assets/7830cd8d-8ab3-4191-b11f-2a61ac0eaad0)
-Created using Tableau Desktop. 
 
 ## Repository Contents
 - original_npd_reddit_posts.csv: Original dataset of Reddit posts.
